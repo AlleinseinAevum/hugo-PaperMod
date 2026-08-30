@@ -1,0 +1,20 @@
+baseURL: 'https://wait-bu2-why.vercel.app'
+languageCode: 'zh-cn'
+title: ' pizza mozzarella '
+
+params:
+  env: production
+  title: 'what'
+  description: '记录一些好玩的东西'
+  author: 'pizza'
+  
+  profileMode:
+    enabled: true
+    title: 'hello world'
+    subtitle: '我要把自己变成二进制'
+    imageUrl: ''
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: 文章列表
+        url: posts
