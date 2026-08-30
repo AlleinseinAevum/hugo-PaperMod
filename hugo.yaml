@@ -12,8 +12,7 @@ params:
     enabled: true
     title: 'For my neurons'
     subtitle: '我听不懂人话，我有自己的语言系统，bwah bwah'
-    imageUrl: 'https://raw.githubusercontent.com/AlleinseinAevum/hugo-PaperMod/master/images/pizza-drawing.png'
-    imageWidth: 120
+    imageUrl:
     imageHeight: 120
     buttons:
       - name: 文章列表
