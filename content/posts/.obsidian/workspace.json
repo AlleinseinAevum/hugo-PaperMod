@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0db21f8bce34c17",
+        "id": "50fae58f0da52318",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d385d6ac76c2c7",
+            "id": "f6ce2182daf32d36",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "未命名 2/Pasted image 20260907202900.png"
+                "file": "未命名 2/c语言历险记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260907202900"
+              "icon": "lucide-file",
+              "title": "c语言历险记"
             }
           }
         ]
@@ -187,10 +189,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a6d385d6ac76c2c7",
+  "active": "f6ce2182daf32d36",
   "lastOpenFiles": [
-    "未命名 2/c语言历险记.md",
     "未命名 2/Pasted image 20260907202900.png",
+    "未命名 2/c语言历险记.md",
     "这啥.md",
     "好了.md",
     "my-first-post.md",
