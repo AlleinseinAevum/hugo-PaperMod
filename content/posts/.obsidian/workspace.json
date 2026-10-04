@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "7ed1e30e555e948a",
+            "id": "1789966e92a80793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "让我来试试能不能加照片.md",
+                "file": "SEpt-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "让我来试试能不能加照片"
+              "title": "SEpt-"
             }
           }
         ],
@@ -203,10 +203,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7ed1e30e555e948a",
+  "active": "1789966e92a80793",
   "lastOpenFiles": [
-    "static/images/Pasted image 20261004211344.png",
     "让我来试试能不能加照片.md",
+    "SEpt-.md",
+    "未命名",
+    "static/images/Pasted image 20261004211344.png",
     "images/Pasted.md",
     "images",
     "static/images/Pasted image 20261004211253.png",
@@ -218,8 +220,7 @@
     "未命名 2/Pasted image 20260907202900.png",
     "my-first-post.md",
     "未命名 2",
-    "未命名",
-    "---.md",
+    "SEpt-.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "未命名 1"
